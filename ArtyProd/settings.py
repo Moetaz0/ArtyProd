@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'ArtyProdApp.apps.ArtyprodappConfig',
     'phonenumber_field',
     'phone_field',
-    'mathfilters',
 ]
 
 MIDDLEWARE = [
